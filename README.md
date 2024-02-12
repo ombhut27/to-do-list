@@ -1,6 +1,6 @@
 # To Do List App ReactJS 
 
-To Do List App in ReactJS.  Functions for adding, editing, toggling and deleting were improved.
+To Do List App in ReactJS.  Functions for adding, editing, toggling and deleting.
 
 
 ### Install Dependencies
